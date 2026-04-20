@@ -1,5 +1,4 @@
-[index.html](https://github.com/user-attachments/files/26880483/index.html)
-# OPI<!DOCTYPE html>
+
 <html lang="en">
 <head>
 <meta charset="UTF-8">
